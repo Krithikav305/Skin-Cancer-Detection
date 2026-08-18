@@ -20,9 +20,9 @@ The system uses YOLO-based object detection to identify skin lesions and classif
 
 ## What I Worked On
 
-- Preprocessed and prepared skin lesion images for model training
+- Preprocessed and prepared skin lesion images
 - Worked with deep learning and CNN-based approaches
-- Implemented YOLO-based lesion detection
+- Worked on YOLO-based lesion detection
 - Worked on benign and malignant lesion classification
 - Developed the Django web application
 - Integrated the trained model with the web application
@@ -30,18 +30,18 @@ The system uses YOLO-based object detection to identify skin lesions and classif
 
 ## Project Screenshots
 
-### Model Architecture
+### CNN Model
 
-![CNN Architecture](screenshots/CNN-Architecture.png)
+![CNN Model](screenshots/CNN%20Model.png)
 
-### Lesion Detection
+### Architecture Diagram
 
-![Lesion Detection](screenshots/Lesion-Detection.png)
+![Architecture Diagram](screenshots/Architecture%20Diagram.png)
 
-### Prediction Result
+### Segmentation Result
 
-![Prediction Result](screenshots/Skin-Cancer-Result.png)
+![Segmentation](screenshots/Segmentation.png)
 
 ## Project Report
 
-[View the complete project report](Skin-Cancer-Detection-Report.pdf)
+[View the complete project report](Skin%20Cancer-%20Detection.pdf)
